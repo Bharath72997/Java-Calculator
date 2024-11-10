@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="java-speech-main">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/java-speech-main.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://$USER_HOME$/Downloads/java-speech-main.zip!/" recursive="false" />
+  </library>
+</component>
